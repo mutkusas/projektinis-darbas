@@ -1,0 +1,142 @@
+field1,field2,field4,field5,field6,field7,field8
+Id,Data,Namų komanda,Išvykos komanda,Arena,Rezultatas,Lankomumas
+393,2017-06-10,Rytas,Neptūnas,Ryto arena,75,66,0
+392,2017-06-09,Žalgiris,Lietkabelis,Žalgirio arena,73,68,0
+391,2017-06-07,Neptūnas,Rytas,Švyturio arena,70,65,0
+390,2017-06-06,Lietkabelis,Žalgiris,Cido arena,59,72,0
+389,2017-06-04,Rytas,Neptūnas,Ryto arena,71,54,0
+388,2017-06-03,Žalgiris,Lietkabelis,Žalgirio arena,97,58,0
+387,2017-06-01,Neptūnas,Rytas,Švyturio arena,83,70,0
+386,2017-05-31,Lietkabelis,Žalgiris,Cido arena,86,83,0
+385,2017-05-29,Rytas,Neptūnas,Ryto arena,79,60,0
+384,2017-05-28,Žalgiris,Lietkabelis,Žalgirio arena,73,67,0
+383,2017-05-23,Lietkabelis,Rytas,Cido arena,86,77,0
+382,2017-05-22,Neptūnas,Žalgiris,Švyturio arena,53,69,0
+381,2017-05-20,Rytas,Lietkabelis,Ryto arena,73,81,0
+380,2017-05-19,Žalgiris,Neptūnas,Žalgirio arena,83,60,0
+379,2017-05-17,Lietkabelis,Rytas,Cido arena,90,73,0
+378,2017-05-16,Neptūnas,Žalgiris,Švyturio arena,73,70,0
+377,2017-05-14,Rytas,Lietkabelis,Ryto arena,96,85,0
+376,2017-05-13,Žalgiris,Neptūnas,Žalgirio arena,83,54,0
+375,2017-05-06,Lietkabelis,Skycop,Cido arena,83,67,0
+374,2017-05-06,Rytas,Pieno žvaigždės,Ryto arena,107,51,0
+373,2017-05-04,Neptūnas,Juventus,Švyturio arena,87,69,0
+372,2017-05-05,Žalgiris,Dzūkija,Žalgirio arena,96,40,0
+371,2017-05-03,Skycop,Lietkabelis,Prienų sporto arena,71,84,0
+370,2017-05-03,Pieno žvaigždės,Rytas,Pieno žvaigždžių arena,80,89,0
+369,2017-05-02,Juventus,Neptūnas,Utenos daugiafunkcis sporto centras,57,78,0
+368,2017-05-02,Dzūkija,Žalgiris,Alytaus sporto ir rekreacijos centras,74,87,0
+367,2017-04-30,Lietkabelis,Skycop,Cido arena,77,75,0
+366,2017-04-30,Rytas,Pieno žvaigždės,Ryto arena,106,73,0
+365,2017-04-29,Neptūnas,Juventus,Švyturio arena,93,75,0
+364,2017-04-29,Žalgiris,Dzūkija,Žalgirio arena,80,73,0
+363,2017-04-26,Žalgiris,Juventus,Žalgirio arena,90,76,0
+362,2017-04-26,Neptūnas,Šiauliai,Švyturio arena,85,78,0
+361,2017-04-26,Dzūkija,Skycop,Alytaus sporto ir rekreacijos centras,79,65,0
+360,2017-04-26,Nevėžis,Lietkabelis,Kėdainių arena,71,95,0
+359,2017-04-26,Pieno žvaigždės,Rytas,Pieno žvaigždžių arena,79,88,0
+358,2017-04-22,Žalgiris,Rytas,Žalgirio arena,90,60,0
+357,2017-04-23,Juventus,Nevėžis,Utenos daugiafunkcis sporto centras,98,79,0
+356,2017-04-23,Lietkabelis,Pieno žvaigždės,Cido arena,90,59,0
+355,2017-04-23,Šiauliai,Skycop,Šiaulių arena,94,100,0
+354,2017-04-23,Neptūnas,Dzūkija,Švyturio arena,69,60,0
+353,2017-04-20,Šiauliai,Žalgiris,Šiaulių arena,71,93,0
+352,2017-04-20,Juventus,Dzūkija,Utenos daugiafunkcis sporto centras,87,66,0
+351,2017-04-20,Rytas,Lietkabelis,Ryto arena,92,60,0
+350,2017-04-20,Pieno žvaigždės,Neptūnas,Pieno žvaigždžių arena,81,93,0
+349,2017-04-20,Skycop,Nevėžis,Prienų sporto arena,56,72,0
+348,2017-04-17,Žalgiris,Lietkabelis,Žalgirio arena,84,62,0
+347,2017-04-17,Juventus,Pieno žvaigždės,Utenos daugiafunkcis sporto centras,91,97,0
+346,2017-04-17,Dzūkija,Šiauliai,Alytaus sporto ir rekreacijos centras,69,51,0
+345,2017-04-17,Skycop,Neptūnas,Prienų sporto arena,96,89,0
+344,2017-04-17,Nevėžis,Rytas,Kėdainių arena,56,92,0
+343,2017-04-15,Neptūnas,Žalgiris,Švyturio arena,77,81,0
+342,2017-04-15,Rytas,Juventus,Ryto arena,75,76,0
+341,2017-04-15,Šiauliai,Nevėžis,Šiaulių arena,78,74,0
+340,2017-04-15,Pieno žvaigždės,Skycop,Pieno žvaigždžių arena,92,89,0
+339,2017-04-15,Lietkabelis,Dzūkija,Cido arena,70,62,0
+338,2017-04-12,Žalgiris,Skycop,Žalgirio arena,84,59,0
+337,2017-04-12,Lietkabelis,Juventus,Cido arena,94,90,0
+336,2017-04-12,Šiauliai,Pieno žvaigždės,Šiaulių arena,98,87,0
+335,2017-04-12,Neptūnas,Nevėžis,Švyturio arena,90,53,0
+334,2017-04-11,Dzūkija,Rytas,Alytaus sporto ir rekreacijos centras,73,78,0
+333,2017-04-09,Nevėžis,Žalgiris,Kėdainių arena,54,82,0
+332,2016-12-20,Šiauliai,Lietkabelis,Šiaulių arena,78,98,0
+331,2017-04-08,Pieno žvaigždės,Dzūkija,Pieno žvaigždžių arena,82,53,0
+330,2017-04-08,Skycop,Juventus,Prienų sporto arena,95,87,0
+329,2017-04-08,Rytas,Neptūnas,Ryto arena,82,62,0
+328,2017-04-02,Žalgiris,Pieno žvaigždės,Žalgirio arena,94,70,0
+327,2017-04-02,Rytas,Skycop,Ryto arena,109,60,0
+326,2017-04-01,Lietkabelis,Neptūnas,Cido arena,74,61,0
+325,2017-04-02,Šiauliai,Juventus,Šiaulių arena,78,86,0
+324,2017-04-01,Dzūkija,Nevėžis,Alytaus sporto ir rekreacijos centras,83,73,0
+323,2017-03-27,Dzūkija,Žalgiris,Alytaus sporto ir rekreacijos centras,64,79,0
+322,2017-03-26,Juventus,Neptūnas,Utenos daugiafunkcis sporto centras,83,98,0
+321,2017-03-25,Nevėžis,Pieno žvaigždės,Kėdainių arena,90,94,0
+320,2017-03-25,Skycop,Lietkabelis,Prienų sporto arena,82,85,0
+319,2017-03-25,Rytas,Šiauliai,Ryto arena,87,63,0
+318,2017-03-19,Juventus,Žalgiris,Utenos daugiafunkcis sporto centras,71,73,0
+317,2017-03-19,Rytas,Pieno žvaigždės,Ryto arena,93,86,0
+316,2017-03-19,Lietkabelis,Nevėžis,Cido arena,100,69,0
+315,2017-03-18,Šiauliai,Neptūnas,Šiaulių arena,65,100,0
+314,2017-03-19,Skycop,Dzūkija,Prienų sporto arena,91,69,0
+313,2017-03-12,Skycop,Žalgiris,Prienų sporto arena,70,81,0
+312,2017-03-12,Nevėžis,Neptūnas,Kėdainių arena,70,72,0
+311,2017-03-12,Juventus,Lietkabelis,Utenos daugiafunkcis sporto centras,74,72,0
+310,2017-03-11,Pieno žvaigždės,Šiauliai,Pieno žvaigždžių arena,85,74,0
+309,2017-03-11,Rytas,Dzūkija,Ryto arena,76,72,0
+308,2017-03-05,Juventus,Rytas,Utenos daugiafunkcis sporto centras,85,87,0
+307,2017-03-05,Dzūkija,Lietkabelis,Alytaus sporto ir rekreacijos centras,89,80,0
+306,2017-03-05,Žalgiris,Neptūnas,Žalgirio arena,69,78,0
+305,2017-03-04,Nevėžis,Šiauliai,Kėdainių arena,86,56,0
+304,2017-03-04,Skycop,Pieno žvaigždės,Prienų sporto arena,86,74,0
+303,2017-02-27,Žalgiris,Šiauliai,Žalgirio arena,101,50,0
+302,2017-02-26,Dzūkija,Juventus,Alytaus sporto ir rekreacijos centras,74,76,0
+301,2017-02-26,Neptūnas,Pieno žvaigždės,Švyturio arena,59,54,0
+300,2017-02-25,Lietkabelis,Rytas,Cido arena,86,77,0
+299,2017-02-25,Nevėžis,Skycop,Kėdainių arena,87,96,0
+298,2017-02-12,Žalgiris,Dzūkija,Žalgirio arena,96,68,0
+297,2017-02-11,Šiauliai,Rytas,Šiaulių arena,81,82,0
+296,2017-02-11,Pieno žvaigždės,Nevėžis,Pieno žvaigždžių arena,89,88,0
+295,2017-02-11,Lietkabelis,Skycop,Cido arena,63,69,0
+294,2017-02-11,Neptūnas,Juventus,Švyturio arena,70,79,0
+293,2017-02-05,Rytas,Žalgiris,Siemens arena,72,79,0
+292,2017-02-05,Pieno žvaigždės,Lietkabelis,Pieno žvaigždžių arena,76,84,0
+291,2017-02-04,Nevėžis,Juventus,Kėdainių arena,74,102,0
+290,2017-02-04,Dzūkija,Neptūnas,Alytaus sporto ir rekreacijos centras,66,69,0
+289,2017-02-04,Skycop,Šiauliai,Prienų sporto arena,83,61,0
+288,2017-01-29,Pieno žvaigždės,Juventus,Pieno žvaigždžių arena,76,81,0
+287,2017-01-29,Šiauliai,Dzūkija,Šiaulių arena,85,64,0
+286,2017-01-28,Rytas,Nevėžis,Ryto arena,86,78,0
+285,2017-01-28,Neptūnas,Skycop,Švyturio arena,72,60,0
+284,2017-01-30,Lietkabelis,Žalgiris,Cido arena,79,77,0
+283,2017-01-22,Žalgiris,Nevėžis,Žalgirio arena,80,59,0
+282,2017-01-21,Neptūnas,Rytas,Švyturio arena,85,78,0
+281,2017-01-21,Dzūkija,Pieno žvaigždės,Alytaus sporto ir rekreacijos centras,82,92,0
+280,2017-01-22,Juventus,Skycop,Utenos daugiafunkcis sporto centras,81,75,0
+279,2017-01-21,Lietkabelis,Šiauliai,Cido arena,75,62,0
+278,2017-01-16,Pieno žvaigždės,Žalgiris,Pieno žvaigždžių arena,56,63,0
+277,2017-01-15,Neptūnas,Lietkabelis,Švyturio arena,86,61,0
+276,2017-01-15,Juventus,Šiauliai,Utenos daugiafunkcis sporto centras,81,67,0
+275,2017-01-14,Nevėžis,Dzūkija,Kėdainių arena,70,79,0
+274,2017-01-14,Skycop,Rytas,Prienų sporto arena,68,73,0
+273,2017-01-08,Žalgiris,Lietkabelis,Žalgirio arena,76,65,0
+272,2017-01-07,Skycop,Neptūnas,Prienų sporto arena,74,67,0
+271,2017-01-07,Dzūkija,Šiauliai,Alytaus sporto ir rekreacijos centras,94,64,0
+270,2017-01-07,Pieno žvaigždės,Juventus,Pieno žvaigždžių arena,91,95,0
+269,2017-01-07,Nevėžis,Rytas,Kėdainių arena,68,81,0
+268,2017-01-02,Žalgiris,Nevėžis,Žalgirio arena,89,62,0
+267,2017-03-29,Lietkabelis,Šiauliai,Cido arena,80,85,0
+266,2016-12-23,Pieno žvaigždės,Dzūkija,Pieno žvaigždžių arena,79,72,0
+265,2016-12-30,Rytas,Neptūnas,Ryto arena,78,75,0
+264,2016-12-30,Juventus,Skycop,Utenos daugiafunkcis sporto centras,73,76,0
+263,2016-12-23,Lietkabelis,Rytas,Cido arena,93,85,0
+262,2016-12-17,Pieno žvaigždės,Neptūnas,Pieno žvaigždžių arena,70,67,0
+261,2016-12-17,Žalgiris,Šiauliai,Žalgirio arena,98,82,0
+260,2016-12-11,Dzūkija,Lietkabelis,Alytaus sporto ir rekreacijos centras,67,87,0
+259,2016-12-18,Skycop,Nevėžis,Prienų sporto arena,83,69,0
+258,2016-12-18,Juventus,Dzūkija,Utenos daugiafunkcis sporto centras,77,62,0
+257,2016-12-11,Neptūnas,Žalgiris,Švyturio arena,67,95,0
+256,2016-12-10,Nevėžis,Šiauliai,Kėdainių arena,81,74,0
+255,2016-12-10,Rytas,Juventus,Ryto arena,98,81,0
+254,2016-12-10,Skycop,Pieno žvaigždės,Prienų sporto arena,96,77,0

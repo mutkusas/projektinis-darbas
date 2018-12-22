@@ -1,0 +1,141 @@
+Id,Data,Laikas,Namų komanda,Išvykos komanda,Arena,Rezultatas,Lankomumas
+604,2016-06-06,19:00,Žalgiris,Neptūnas,Žalgirio arena,97:70,0
+603,2016-06-03,19:00,Neptūnas,Žalgiris,Švyturio arena,50:74,0
+602,2016-06-01,19:00,Rytas,Juventus,Ryto arena,89:81,0
+601,2016-05-31,19:00,Žalgiris,Neptūnas,Žalgirio arena,78:54,0
+600,2016-05-28,17:00,Neptūnas,Žalgiris,Švyturio arena,76:54,0
+599,2016-05-29,17:00,Juventus,Rytas,Utenos daugiafunkcis sporto centras,78:83,0
+598,2016-05-25,19:00,Žalgiris,Neptūnas,Žalgirio arena,83:72,0
+597,2016-05-22,17:00,Rytas,Neptūnas,Siemens arena,72:73,0
+596,2016-05-26,19:00,Rytas,Juventus,Ryto arena,85:83,0
+595,2016-05-20,19:00,Neptūnas,Rytas,Švyturio arena,73:74,0
+594,2016-05-17,19:00,Rytas,Neptūnas,Siemens arena,66:64,0
+593,2016-05-16,19:00,Žalgiris,Juventus,Žalgirio arena,80:72,0
+592,2016-05-14,17:00,Neptūnas,Rytas,Švyturio arena,70:68,0
+591,2016-05-13,19:00,Juventus,Žalgiris,Utenos daugiafunkcis sporto centras,73:88,0
+590,2016-05-11,19:00,Rytas,Neptūnas,Siemens arena,71:83,0
+589,2016-05-10,19:00,Žalgiris,Juventus,Žalgirio arena,91:76,0
+588,2016-05-07,17:00,Skycop,Juventus,Prienų sporto arena,79:83,0
+587,2016-05-05,18:30,Juventus,Skycop,Utenos daugiafunkcis sporto centras,73:78,0
+586,2016-05-02,18:30,Skycop,Juventus,Prienų sporto arena,65:66,0
+585,2016-04-30,16:00,Juventus,Skycop,Utenos daugiafunkcis sporto centras,93:88,0
+584,2016-04-26,18:30,Skycop,Juventus,Prienų sporto arena,98:91,0
+583,2016-05-06,17:30,Šiauliai,Neptūnas,Šiaulių arena,86:87,0
+582,2016-05-03,19:00,Neptūnas,Šiauliai,Švyturio arena,90:85,0
+581,2016-05-01,17:00,Šiauliai,Neptūnas,Šiaulių arena,93:84,0
+580,2016-04-27,19:00,Neptūnas,Šiauliai,Švyturio arena,83:77,0
+579,2016-05-03,19:00,Rytas,Lietkabelis,Ryto arena,83:78,0
+578,2016-05-02,19:00,Žalgiris,Pieno žvaigždės,Žalgirio arena,95:81,0
+577,2016-04-30,17:00,Lietkabelis,Rytas,Cido arena,66:85,0
+576,2016-04-29,18:00,Pieno žvaigždės,Žalgiris,Pieno žvaigždžių arena,71:84,0
+575,2016-04-27,19:00,Rytas,Lietkabelis,Ryto arena,79:74,0
+574,2016-04-26,19:00,Žalgiris,Pieno žvaigždės,Žalgirio arena,102:66,0
+573,2016-03-14,18:30,Lietkabelis,Žalgiris,Cido arena,70:90,0
+572,2016-03-13,17:00,Šiauliai,Rytas,Šiaulių arena,80:81,0
+571,2016-03-12,17:00,Neptūnas,Pieno žvaigždės,Švyturio arena,95:91,0
+570,2016-03-05,17:00,Rytas,Nevėžis,Ryto arena,87:70,0
+569,2016-04-23,17:00,Žalgiris,Šiauliai,Žalgirio arena,79:82,0
+568,2016-04-23,17:00,Rytas,Dzūkija,Ryto arena,88:59,0
+567,2016-04-23,17:00,Neptūnas,Nevėžis,Švyturio arena,103:69,0
+566,2016-04-23,17:00,Pieno žvaigždės,Juventus,Pieno žvaigždžių arena,85:75,0
+565,2016-04-23,17:00,Lietkabelis,Skycop,Cido arena,67:65,0
+564,2016-04-20,19:00,Žalgiris,Skycop,Žalgirio arena,96:80,0
+563,2016-04-20,19:00,Neptūnas,Dzūkija,Švyturio arena,85:65,0
+562,2016-04-20,18:30,Šiauliai,Juventus,Šiaulių arena,109:105,0
+561,2016-04-20,18:00,Nevėžis,Pieno žvaigždės,Kėdainių arena,87:95,0
+560,2016-04-20,19:00,Rytas,Lietkabelis,Ryto arena,91:69,0
+559,2016-03-26,17:00,Juventus,Neptūnas,Utenos daugiafunkcis sporto centras,104:89,0
+558,2016-03-26,17:00,Nevėžis,Lietkabelis,Kėdainių arena,76:81,0
+557,2016-03-26,17:00,Rytas,Pieno žvaigždės,Ryto arena,95:74,0
+556,2016-03-20,17:00,Juventus,Žalgiris,Utenos daugiafunkcis sporto centras,65:88,0
+555,2016-03-20,17:00,Nevėžis,Rytas,Kėdainių arena,59:78,0
+554,2016-03-19,17:00,Šiauliai,Dzūkija,Šiaulių arena,91:69,0
+553,2016-03-19,16:00,Skycop,Neptūnas,Prienų sporto arena,82:72,0
+552,2016-03-19,17:00,Pieno žvaigždės,Lietkabelis,Pieno žvaigždžių arena,84:90,0
+551,2016-03-07,19:00,Žalgiris,Juventus,Žalgirio arena,84:86,0
+550,2016-03-13,17:00,Juventus,Dzūkija,Utenos daugiafunkcis sporto centras,82:75,0
+549,2016-03-06,16:00,Lietkabelis,Pieno žvaigždės,Cido arena,82:83,0
+548,2016-03-12,17:00,Nevėžis,Skycop,Kėdainių arena,72:78,0
+547,2016-04-17,17:00,Žalgiris,Rytas,Žalgirio arena,79:74,0
+546,2016-03-06,17:00,Neptūnas,Skycop,Švyturio arena,70:58,0
+545,2016-04-17,16:00,Lietkabelis,Neptūnas,Cido arena,72:80,0
+544,2016-04-16,17:00,Dzūkija,Nevėžis,Alytaus sporto ir rekreacijos centras,60:53,0
+543,2016-04-16,16:00,Juventus,Skycop,Utenos daugiafunkcis sporto centras,88:61,0
+542,2016-04-16,17:00,Pieno žvaigždės,Šiauliai,Pieno žvaigždžių arena,93:87,0
+541,2016-04-13,19:00,Žalgiris,Nevėžis,Žalgirio arena,95:73,0
+540,2016-04-13,18:30,Šiauliai,Neptūnas,Šiaulių arena,79:74,0
+539,2016-04-13,18:30,Skycop,Rytas,Prienų sporto arena,80:77,0
+538,2016-04-13,18:30,Lietkabelis,Juventus,Cido arena,84:82,0
+537,2016-04-13,18:00,Pieno žvaigždės,Dzūkija,Pieno žvaigždžių arena,78:58,0
+536,2016-02-28,17:00,Pieno žvaigždės,Žalgiris,Pieno žvaigždžių arena,101:109,0
+535,2016-04-10,17:00,Žalgiris,Pieno žvaigždės,Žalgirio arena,93:88,0
+534,2016-02-28,18:00,Lietkabelis,Šiauliai,Cido arena,75:88,0
+533,2016-04-09,17:00,Rytas,Neptūnas,Ryto arena,95:88,0
+532,2016-02-27,19:00,Dzūkija,Skycop,Alytaus sporto ir rekreacijos centras,77:79,0
+531,2016-04-10,17:00,Nevėžis,Juventus,Kėdainių arena,81:93,0
+530,2016-02-27,17:00,Neptūnas,Rytas,Švyturio arena,70:62,0
+529,2016-04-09,17:00,Šiauliai,Lietkabelis,Šiaulių arena,99:82,0
+528,2016-03-07,19:00,Dzūkija,Šiauliai,Alytaus sporto ir rekreacijos centras,79:86,0
+527,2016-04-06,19:00,Dzūkija,Skycop,Alytaus sporto ir rekreacijos centras,67:61,0
+526,2016-04-03,17:00,Neptūnas,Žalgiris,Švyturio arena,70:78,0
+525,2016-04-03,17:00,Šiauliai,Nevėžis,Šiaulių arena,112:90,0
+524,2016-04-03,19:00,Dzūkija,Lietkabelis,Alytaus sporto ir rekreacijos centras,70:83,0
+523,2016-04-02,17:00,Pieno žvaigždės,Skycop,Pieno žvaigždžių arena,91:100,0
+522,2016-04-02,17:00,Juventus,Rytas,Utenos daugiafunkcis sporto centras,59:97,0
+521,2016-03-29,19:00,Dzūkija,Žalgiris,Alytaus sporto ir rekreacijos centras,69:79,0
+520,2016-03-26,16:00,Skycop,Šiauliai,Prienų sporto arena,68:57,0
+519,2016-02-15,19:00,Žalgiris,Lietkabelis,Žalgirio arena,92:59,0
+518,2016-02-14,17:00,Rytas,Šiauliai,Ryto arena,79:58,0
+517,2016-02-27,16:00,Juventus,Nevėžis,Utenos daugiafunkcis sporto centras,89:73,0
+516,2016-02-13,17:00,Pieno žvaigždės,Neptūnas,Pieno žvaigždžių arena,54:88,0
+515,2016-02-13,17:00,Skycop,Nevėžis,Prienų sporto arena,80:76,0
+514,2016-02-13,19:00,Dzūkija,Juventus,Alytaus sporto ir rekreacijos centras,88:77,0
+513,2016-02-07,17:00,Šiauliai,Žalgiris,Šiaulių arena,64:80,0
+512,2016-02-07,19:00,Dzūkija,Rytas,Alytaus sporto ir rekreacijos centras,58:93,0
+511,2016-02-06,17:00,Nevėžis,Neptūnas,Kėdainių arena,69:77,0
+510,2016-02-06,16:00,Juventus,Pieno žvaigždės,Utenos daugiafunkcis sporto centras,83:100,0
+509,2016-02-06,17:00,Skycop,Lietkabelis,Prienų sporto arena,84:76,0
+508,2016-01-31,17:00,Žalgiris,Neptūnas,Kauno sporto halė,89:57,0
+507,2016-01-31,17:00,Nevėžis,Šiauliai,Kėdainių arena,82:78,0
+506,2016-01-30,16:00,Lietkabelis,Dzūkija,Cido arena,82:74,0
+505,2016-01-30,17:00,Skycop,Pieno žvaigždės,Prienų sporto arena,94:86,0
+504,2016-01-31,16:00,Juventus,Rytas,Utenos daugiafunkcis sporto centras,92:88,0
+503,2016-01-24,17:00,Žalgiris,Dzūkija,Žalgirio arena,101:62,0
+502,2016-01-24,17:00,Šiauliai,Skycop,Šiaulių arena,90:82,0
+501,2016-01-24,18:00,Neptūnas,Juventus,Švyturio arena,101:74,0
+500,2016-01-24,16:00,Lietkabelis,Nevėžis,Cido arena,76:66,0
+499,2016-01-24,18:00,Pieno žvaigždės,Rytas,Pieno žvaigždžių arena,81:77,0
+498,2016-01-25,18:00,Nevėžis,Žalgiris,Kėdainių arena,54:98,0
+497,2016-01-23,18:00,Neptūnas,Šiauliai,Švyturio arena,68:73,0
+496,2016-01-23,17:00,Rytas,Skycop,Ryto arena,93:84,0
+495,2016-01-23,16:00,Juventus,Lietkabelis,Utenos daugiafunkcis sporto centras,84:70,0
+494,2016-01-23,19:30,Dzūkija,Pieno žvaigždės,Alytaus sporto ir rekreacijos centras,75:71,0
+493,2016-01-17,17:00,Rytas,Žalgiris,Siemens arena,78:72,0
+492,2016-01-19,18:00,Nevėžis,Dzūkija,Kėdainių arena,91:81,0
+491,2016-01-16,17:00,Skycop,Juventus,Prienų sporto arena,96:90,0
+490,2016-01-16,18:00,Neptūnas,Lietkabelis,Švyturio arena,70:74,0
+489,2016-01-10,17:00,Žalgiris,Skycop,Žalgirio arena,94:77,0
+488,2016-01-10,16:00,Lietkabelis,Rytas,Cido arena,75:65,0
+487,2016-01-10,19:00,Dzūkija,Neptūnas,Alytaus sporto ir rekreacijos centras,58:55,0
+486,2016-01-16,17:00,Pieno žvaigždės,Nevėžis,Pieno žvaigždžių arena,79:54,0
+485,2016-01-09,17:00,Juventus,Šiauliai,Utenos daugiafunkcis sporto centras,90:66,0
+484,2016-02-16,19:30,Šiauliai,Pieno žvaigždės,Šiaulių arena,90:94,0
+483,2016-01-03,16:00,Nevėžis,Skycop,Kėdainių arena,61:78,0
+482,2016-01-03,17:00,Rytas,Šiauliai,Ryto arena,82:61,0
+481,2016-01-02,17:00,Žalgiris,Lietkabelis,Žalgirio arena,84:58,0
+480,2016-01-03,18:00,Neptūnas,Pieno žvaigždės,Švyturio arena,90:79,0
+465,2016-01-03,17:00,Žalgiris,Juventus,Žalgirio arena,90:78,0
+464,2015-12-30,17:30,Skycop,Neptūnas,Prienų sporto arena,72:85,0
+462,2015-12-30,18:00,Nevėžis,Rytas,Kėdainių arena,72:83,0
+460,2015-12-30,18:30,Lietkabelis,Pieno žvaigždės,Cido arena,91:78,0
+458,2015-12-30,19:00,Dzūkija,Šiauliai,Alytaus sporto ir rekreacijos centras,68:73,0
+457,2015-12-27,17:00,Pieno žvaigždės,Žalgiris,Pieno žvaigždžių arena,71:88,0
+455,2015-12-27,15:00,Skycop,Dzūkija,Prienų sporto arena,63:77,0
+453,2015-12-27,16:00,Juventus,Nevėžis,Utenos daugiafunkcis sporto centras,88:92,0
+452,2015-12-27,18:00,Lietkabelis,Šiauliai,Cido arena,78:72,0
+450,2015-12-27,17:00,Rytas,Neptūnas,?,80:76,0
+448,2015-12-23,18:00,Dzūkija,Žalgiris,Alytaus sporto ir rekreacijos centras,72:80,0
+446,2015-12-23,18:30,Lietkabelis,Nevėžis,Cido arena,96:75,0
+444,2015-12-23,19:00,Rytas,Pieno žvaigždės,?,96:69,0
+441,2015-12-23,19:00,Neptūnas,Juventus,Švyturio arena,82:65,0
+439,2016-01-08,19:00,Dzūkija,Pieno žvaigždės,Alytaus sporto ir rekreacijos centras,78:70,0
